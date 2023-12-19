@@ -1,0 +1,335 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700|Work+Sans:300,400,500,600,700&display=swap); /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+body{font-family: sans-serif;
+font-weight: 50;}
+header img
+{
+    width: 280px;
+    margin-left: 20em;
+    height: 43px;
+}
+header{
+    display: flex;
+    flex-direction: row;
+justify-content: space-between;
+margin-top: 20px;
+
+}
+.navtools{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-right: 22em;
+    font-weight: 100;
+    margin-top: 1em;
+}
+.navtools a{text-decoration: none;
+  
+    color: black;
+    font-size:20px;
+    font-weight: 200;
+    
+
+
+
+}
+.navtools a:hover{
+    color:  #00b39b;
+    color: #333;
+}
+.nav1{
+  margin-top: 2em;  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 20px;
+    color: #00b39b;
+    font-weight: 400;
+    font-size: 35px;
+    margin-top: 3em;
+
+
+}
+.regina{display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    font-size: 20px;
+    line-height: 16px;
+    font-weight: 50;
+    color: #333;
+}
+    .card{
+        color: white;
+    background-color:#00ccb1;
+font-size: larger;
+width:17%;
+border-radius: 10px;
+padding: 30px;
+font-size: 25px;
+height: 370px;
+line-height: 16px;
+}
+.mam{
+    font-size: 30px;
+}
+.car{ color: white;
+    background-color:#3d83df;
+font-size: 25px;
+width: 17%;
+border-radius:10px;
+padding:30px;
+font-size:25px
+height:370px;
+line-height:16px;
+
+}
+.ca{color: white;
+    background-color:#333;
+font-size: 25px;
+width: 17%;
+border-radius: 10px;
+padding: 30px;
+font-size: 25px;
+width:17%;
+height: 378px;
+line-height: 16px;
+}
+.azeezah{
+    display:flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 4em;
+}
+.rahman{
+    color: white;
+    background-color:#3d83df;
+    font-size: 25px;
+    border: none;
+    margin-top: 140px;
+    font-weight: 200;
+text-decoration: underline;
+
+
+    
+}
+.rahma{color: white;
+    background-color:#00b39b;
+    font-size: 25px;
+    margin-top: 150px;  
+    font-weight: 200;
+    border: none;
+text-decoration: underline;  
+}
+.op2{
+    background-color: #333;
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+
+
+}
+.rahm{
+    background-color: #333;
+    padding-top: ;
+    font-size: 25px;
+    border: none;
+    color: white;
+    text-decoration: underline;  
+
+}
+.rah{
+    background-color: #333;
+    font-size: 25px;
+    color: white;
+    border: none;
+    text-decoration: underline;  
+    margin-top: 110px;    
+    
+}
+a:hover{
+    color: #00b39b;
+}
+.arafat{
+    
+    color: #00b39b;
+    font-size: 30px;
+    font-weight: 100;
+    line-height: 19px;
+    width:  max-content;
+    margin-left: 13em;
+}
+.fathia{
+    float: right;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-bottom:;
+    gap: 20px;
+    row-gap: 50px;
+    margin-right:22em ;
+    line-height: 50px;
+margin-top: 3em;
+}
+.hassanat{
+    display: flex;
+    flex-direction:row ;
+    justify-content: space-between;
+}
+.firdaus{background-color: #d0faf4;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height:870px;
+    margin-top: 5em;
+}
+.abubakar{
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+    margin-left: 13em;
+    margin-top: 6em;
+    
+
+}
+.awwal{
+    font-size:35px ;
+    color: #00b39b;
+    line-height: 17px;
+
+}
+.umar{
+    font-size: 17px;
+
+}
+.jayeed{
+    width: max-content;
+    background-color: white;
+    margin-left: 2em;
+
+}
+.zaynab{
+    font-size: 30px;
+    color: #00b39b;
+    line-height: 18px;
+    margin-left: 2em;
+}
+.cone{display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: white;
+    width:max-content;
+    height: 325px;
+
+}
+.ameerah{
+    margin-left: 2em;
+}
+.fry{display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: white;
+    width: 310px;
+    justify-content: center;
+    height: 325px;
+}
+.abu{display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: white;
+    width: 310px;
+    justify-content: center;
+    height: 325px;
+}
+.uma{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    background-color: white;
+    justify-content: center;
+    width: 315px;
+    height: 325px;
+}
+.ret{
+    display: grid;
+    grid-template-columns: auto auto ;
+    row-gap: 30px;
+    gap: 20px;
+    float:left ;
+    margin-top: 8em;
+    margin-right: 10em;
+}
+.p1{
+    font-size: 35px;
+    color: #00b39b;
+    line-height: 19px;
+    margin-left:2em;
+
+}
+.p2{margin-left: 4em;}
+.i{
+    margin-left:5em;
+}
+.r{
+    margin-top: 7em;
+}
+.flex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 7em;
+}
+.p3{
+    line-height: 16px;
+    color: #333;
+
+}
+.faruq{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: max-content;
+    gap: 80px;
+
+}
+.faruq a{
+    background-color: blue;
+    text-decoration: none;
+    border-radius: 8px;
+}
+.er{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.p4{font-size: 35px;}
+.re a{
+    background-color: blue;
+    width: 180px;
+    text-decoration: none;
+    color: white;
+}
+.re{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    align-items: center;
+    margin-bottom: 5em;
+
+}
+.yu{
+    display:inline;
+}
+.adiz{
+    color: #ababab;
+}
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
+
